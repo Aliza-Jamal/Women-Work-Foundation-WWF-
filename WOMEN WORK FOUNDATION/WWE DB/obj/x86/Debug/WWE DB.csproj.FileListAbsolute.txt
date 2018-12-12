@@ -1,0 +1,16 @@
+c:\users\a.basit\documents\visual studio 2010\Projects\WWE DB\WWE DB\bin\Debug\WWE DB.exe
+c:\users\a.basit\documents\visual studio 2010\Projects\WWE DB\WWE DB\bin\Debug\WWE DB.pdb
+c:\users\a.basit\documents\visual studio 2010\Projects\WWE DB\WWE DB\obj\x86\Debug\WWE_DB.Form1.resources
+c:\users\a.basit\documents\visual studio 2010\Projects\WWE DB\WWE DB\obj\x86\Debug\WWE_DB.Properties.Resources.resources
+c:\users\a.basit\documents\visual studio 2010\Projects\WWE DB\WWE DB\obj\x86\Debug\WWE DB.exe
+c:\users\a.basit\documents\visual studio 2010\Projects\WWE DB\WWE DB\obj\x86\Debug\WWE DB.pdb
+C:\Users\A.basit\Documents\Visual Studio 2010\Projects\WWE DB\WWE DB\obj\x86\Debug\WWE DB.csprojResolveAssemblyReference.cache
+C:\Users\A.basit\Documents\Visual Studio 2010\Projects\WWE DB\WWE DB\obj\x86\Debug\WWE DB.csproj.GenerateResource.Cache
+F:\PROJECTS\WWE DB\WWE DB\obj\x86\Debug\WWE DB.exe
+F:\PROJECTS\WWE DB\WWE DB\obj\x86\Debug\WWE DB.pdb
+F:\PROJECTS\WWE DB\WWE DB\bin\Debug\WWE DB.exe
+F:\PROJECTS\WWE DB\WWE DB\bin\Debug\WWE DB.pdb
+F:\PROJECTS\WWE DB\WWE DB\obj\x86\Debug\WWE DB.csprojResolveAssemblyReference.cache
+F:\PROJECTS\WWE DB\WWE DB\obj\x86\Debug\WWE_DB.Form1.resources
+F:\PROJECTS\WWE DB\WWE DB\obj\x86\Debug\WWE_DB.Properties.Resources.resources
+F:\PROJECTS\WWE DB\WWE DB\obj\x86\Debug\WWE DB.csproj.GenerateResource.Cache
